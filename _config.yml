@@ -1,8 +1,9 @@
 layout_spectrum: 0.3554193
+typography_spectrum: 1
 color:
   saturation: 0.06362387
-  lightness: 0.1901076
-  brandStrength: 0.3475022
+  lightness: 0
+  brandStrength: 0
   brandColors:
     - '#FFFFFF'
     - '#FCB827'
@@ -10,5 +11,4 @@ color:
     - '#E03A3E'
     - '#000000'
   rhythmicContrast: 0.4374764
-typography_spectrum: 0.2693183
 name: "John's Passions"
